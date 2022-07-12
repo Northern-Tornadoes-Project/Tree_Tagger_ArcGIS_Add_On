@@ -1,0 +1,8 @@
+cmake_minimum_required(VERSION 3.2)
+project(pybind11FastLib)
+add_subdirectory("pybind11-2.9.2")
+pybind11_add_module(FastLib FastLib.cpp)
+set(DPYTHON_EXECUTABLE "C:/Users/danie/anaconda3/envs/kerasSeg/python.exe")
+set(PYTHONVERSION "3.7")
+set (PYBIND11_PYTHON_VERSION "3.7")
+set(bindings_python_version 3.7)
