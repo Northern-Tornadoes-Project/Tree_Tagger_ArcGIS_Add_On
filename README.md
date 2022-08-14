@@ -7,6 +7,9 @@ Using https://github.com/divamgupta/image-segmentation-keras as well as Keras an
 
 This project was developed for the Northern Tornadoes Project, University of Western Ontario, https://www.uwo.ca/ntp/
 
+Large Scale Aerial Photo (aprox 2km x 1km)
+![Large Scale Aerial Photo](https://github.com/Daniel-Butt/Tree_Tagger_ArcGIS_Add_On/blob/main_3/tempsnip4.PNG?raw=true)
+
 Sample Aerial Photo (50m x 50m)
 ![Aerial Photo](https://github.com/Daniel-Butt/Tree_Tagger_ArcGIS_Add_On/blob/main_3/Capture2.PNG?raw=true)
 
