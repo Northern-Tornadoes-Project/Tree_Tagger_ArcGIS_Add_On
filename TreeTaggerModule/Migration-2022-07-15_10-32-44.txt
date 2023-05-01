@@ -1,0 +1,9 @@
+Migration Status Report
+  Migrate project: F:\arcGIS\ArcGIS_Add_ins\TreeTaggerModule\TreeTaggerModule\TreeTaggerModule.csproj
+  TreeTaggerModule.csproj
+   project folder: 
+   F:\arcGIS\ArcGIS_Add_ins\TreeTaggerModule\TreeTaggerModule\
+   F:\arcGIS\ArcGIS_Add_ins\TreeTaggerModule\TreeTaggerModule\
+   language: CS
+   project type: AddIn
+   project has WPF: PresentationFramework
